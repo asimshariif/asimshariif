@@ -7,8 +7,9 @@ I design and build **production-grade AI systems** using Large Language Models, 
 Currently working on **scalable AI architectures, intelligent automation, and enterprise AI solutions.**
 
 
-![Stats](https://img.shields.io/badge/Commits-780-blue)
-![PRs](https://img.shields.io/badge/PRs-85-green)
+![Stats](https://img.shields.io/badge/Commits-1780-blue)
+![PRs](https://img.shields.io/badge/PRs-185-green)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asimshariif&layout=compact&theme=dark&hide_border=true)
 
 
