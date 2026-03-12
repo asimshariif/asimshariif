@@ -1,13 +1,15 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asimshariif&show_icons=true)
+# Hi, I'm Asim Sharif 👋
+
+🚀 GenAI Specialist | LLM Engineer | AI Systems Builder
+
+![Asim Sharif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asimshariif&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asimshariif&layout=compact&theme=dark&hide_border=true)
 
 
 ![Python](https://img.shields.io/badge/Python-AI-blue)
 ![LLM](https://img.shields.io/badge/LLM-Engineer-green)
 ![RAG](https://img.shields.io/badge/RAG-Systems-orange)
 ![LangGraph](https://img.shields.io/badge/LangGraph-Agentic-purple)
-# Hi, I'm Asim Sharif 👋
-
-🚀 **GenAI Specialist | LLM Engineer | AI Systems Builder**
 
 I design and build **production-grade AI systems** using Large Language Models, Retrieval-Augmented Generation (RAG), and AI Agents.
 
