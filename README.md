@@ -2,7 +2,8 @@
 
 🚀 GenAI Specialist | LLM Engineer | AI Systems Builder
 
-![Asim Sharif's GitHub Stats](https://github-readme-stats.vercel.app/api?username=asimshariif&show_icons=true&theme=dark&hide_border=true)
+![Stats](https://img.shields.io/badge/Commits-780-blue)
+![PRs](https://img.shields.io/badge/PRs-85-green)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asimshariif&layout=compact&theme=dark&hide_border=true)
 
 
