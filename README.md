@@ -122,7 +122,7 @@ Built data pipelines and dashboards supporting AI-driven insights.
 ## 📫 Contact
 
 📍 Riyadh, Saudi Arabia
-📧 [Rasimsharif603@gmail.com](mailto:Rasimsharif603@gmail.com)
+📧 [asimsharif603@gmail.com](mailto:asimsharif603@gmail.com)
 🔗 LinkedIn:
 https://www.linkedin.com/in/asim-sharif-59104b335/
 
