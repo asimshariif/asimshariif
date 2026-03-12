@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-AI-blue)
+![LLM](https://img.shields.io/badge/LLM-Engineer-green)
+![RAG](https://img.shields.io/badge/RAG-Systems-orange)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agentic-purple)
 # Hi, I'm Asim Sharif 👋
 
 🚀 **GenAI Specialist | LLM Engineer | AI Systems Builder**
