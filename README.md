@@ -1,144 +1,216 @@
-# Hi, I'm Asim Sharif 👋
+# 👋 Hi, I'm **Asim Sharif**
 
-🚀 GenAI Specialist | LLM Engineer | AI Systems Builder
+🚀 **GenAI Specialist | LLM Engineer | AI Systems Builder**
 
-I design and build **production-grade AI systems** using Large Language Models, Retrieval-Augmented Generation (RAG), and AI Agents.
+I design and build **production-grade AI systems** using **LLMs, RAG pipelines, and AI agents**.
 
-Currently working on **scalable AI architectures, intelligent automation, and enterprise AI solutions.**
+🔬 Currently focused on:
 
+- Scalable AI Architectures  
+- Intelligent Automation Systems  
+- Enterprise AI Applications  
 
-![Stats](https://img.shields.io/badge/Commits-1780-blue)
-![PRs](https://img.shields.io/badge/PRs-185-green)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asimshariif&layout=compact&theme=dark&hide_border=true)
+# 📊 GitHub Analytics
 
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=asimshariif&show_icons=true&theme=dark&hide_border=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=asimshariif&theme=dark&hide_border=true" height="170"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimshariif&layout=compact&theme=dark&hide_border=true" height="150"/>
+
+</p>
+
+---
+
+# 🧠 AI Expertise
+
+| Domain | Skills |
+|------|------|
+| Generative AI | LLM applications, prompt engineering |
+| RAG Systems | Retrieval pipelines, semantic search |
+| AI Agents | Agentic workflows, LangGraph |
+| LLM Infrastructure | scalable inference pipelines |
+| Vector Search | FAISS, embeddings |
+| AI Evaluation | benchmarking, testing |
+
+---
+
+# 🛠 Tech Stack
+
+## 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-AI-blue)
-![LLM](https://img.shields.io/badge/LLM-Engineer-green)
-![RAG](https://img.shields.io/badge/RAG-Systems-orange)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![SQL](https://img.shields.io/badge/SQL-orange)
+![C++](https://img.shields.io/badge/C++-blue)
+![C](https://img.shields.io/badge/C-grey)
+![HTML](https://img.shields.io/badge/HTML-red)
+
+---
+
+## 🤖 AI / ML
+
+![LangChain](https://img.shields.io/badge/LangChain-Framework-green)
 ![LangGraph](https://img.shields.io/badge/LangGraph-Agentic-purple)
-
-
----
-
-## 🔬 Expertise
-
-* Generative AI & LLM Applications
-* Retrieval-Augmented Generation (RAG)
-* AI Agents & Agentic Workflows
-* LangGraph & Model Context Protocol (MCP)
-* Open-source LLMs
-* Vector Databases & Semantic Search
-* Scalable AI Systems
-* Concurrent AI request handling
+![HuggingFace](https://img.shields.io/badge/HuggingFace-Models-yellow)
+![OpenAI](https://img.shields.io/badge/OpenAI-API-black)
+![PyTorch](https://img.shields.io/badge/PyTorch-DeepLearning-red)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-ML-orange)
 
 ---
 
-## 🛠 Tech Stack
+## ⚙️ AI Systems
 
-### Languages
+- Retrieval-Augmented Generation (RAG)
+- Embedding Pipelines
+- Vector Databases
+- Semantic Search
+- AI Evaluation Systems
 
-Python • JavaScript • SQL • C++ • C • HTML
+Tools:
 
-### AI / ML
+```
+FAISS • Sentence-BERT • Embeddings • LLM Pipelines
+```
 
-LangChain • LangGraph • Hugging Face • OpenAI APIs • PyTorch • TensorFlow
+---
 
-### AI Systems
+## ☁️ Infrastructure
 
-RAG Pipelines • FAISS • Embeddings • Semantic Search • AI Evaluation
+![Docker](https://img.shields.io/badge/Docker-Containers-blue)
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange)
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue)
+![GCP](https://img.shields.io/badge/GCP-Cloud-red)
 
-### Infrastructure
+Tools:
 
-Docker • REST APIs • CI/CD • AWS • Azure • GCP
+```
+REST APIs • CI/CD • Containerized AI Services
+```
 
 ---
 
 # 🚀 Featured AI Projects
 
-### 🤖 AI Resume Screening Chatbot (RAG)
+## 🤖 AI Resume Screening Chatbot (RAG)
 
-Built a **Retrieval-Augmented Generation pipeline** for recruitment automation.
-
-Key Features:
-
-* Document parsing
-* Semantic search with FAISS
-* Embedding pipelines
-* LLM response generation
-* Scalable multi-user support
-
-Tech:
-Python • LangChain • FAISS • LLMs
-
----
-
-### ✍️ Signature Synthesis with Generative AI
-
-Developed **deep generative models for handwritten signature synthesis**.
-
-Key Features:
-
-* GAN & VAE architectures
-* Custom preprocessing pipelines
-* Training optimization with PyTorch
-* Quality evaluation metrics
-
-Tech:
-PyTorch • GAN • VAE • Python
-
----
-
-### 📊 Amazon Reviews Analytics Dashboard
-
-Analyzed large-scale product review datasets to extract insights.
+**Automated recruitment assistant using LLMs + semantic retrieval**
 
 Features:
 
-* Sentiment analysis
-* Trend analytics
-* Interactive dashboards
+- Document parsing
+- FAISS semantic search
+- Embedding pipelines
+- LLM response generation
+- Multi-user architecture
 
 Tech:
-Python • Tableau • Data Visualization
+
+```
+Python • LangChain • FAISS • LLMs
+```
 
 ---
 
-### 📚 GenFlex – AI Examination System
+## ✍️ Signature Synthesis with Generative AI
 
-AI-powered examination platform with **LLM-based automated grading**.
+Deep generative models for **handwritten signature synthesis**.
 
-Key Features:
+Features:
 
-* Semantic answer evaluation
-* Vector search retrieval
-* Secure role-based architecture
+- GAN & VAE architectures
+- Custom preprocessing pipelines
+- PyTorch training optimization
+- Quality evaluation metrics
 
 Tech:
+
+```
+PyTorch • GAN • VAE • Python
+```
+
+---
+
+## 📊 Amazon Reviews Analytics Dashboard
+
+Large-scale **product review analytics platform**
+
+Features:
+
+- Sentiment analysis
+- Trend detection
+- Interactive dashboards
+
+Tech:
+
+```
+Python • Tableau • NLP • Data Visualization
+```
+
+---
+
+## 📚 GenFlex – AI Examination System
+
+AI-powered **LLM-based automated grading system**
+
+Features:
+
+- Semantic answer evaluation
+- Vector retrieval system
+- Role-based secure architecture
+
+Tech:
+
+```
 Python • LLMs • Sentence-BERT • FAISS
+```
 
 ---
 
-## 💼 Experience
+# 💼 Professional Experience
 
-**AI Engineer — NurifyAI (2026)**
-Built voice-enabled AI tutors using GPT-4 realtime APIs and multilingual teaching tools.
+### AI Engineer — NurifyAI (2026)
 
-**AI Software Engineer — QUEM Systems International**
-Developed production-ready LLM applications including RAG systems and AI agents.
-
-**Data Analyst — Goal Bytes Pvt Ltd**
-Built data pipelines and dashboards supporting AI-driven insights.
+- Built **voice-enabled AI tutors**
+- Integrated **GPT-4 realtime APIs**
+- Developed **multilingual learning assistants**
 
 ---
 
-## 📫 Contact
+### AI Software Engineer — QUEM Systems International
 
-📍 Riyadh, Saudi Arabia
-📧 [asimsharif603@gmail.com](mailto:asimsharif603@gmail.com)
-🔗 LinkedIn:
+- Built production **RAG pipelines**
+- Developed **AI agents & automation systems**
+- Designed **LLM-based enterprise solutions**
+
+---
+
+### Data Analyst — Goal Bytes Pvt Ltd
+
+- Built **data pipelines**
+- Designed **analytics dashboards**
+- Supported **AI-driven decision systems**
+
+---
+
+# 📫 Connect With Me
+
+📍 Riyadh, Saudi Arabia  
+
+📧 **Email**  
+asimsharif603@gmail.com  
+
+🔗 **LinkedIn**  
 https://www.linkedin.com/in/asim-sharif-59104b335/
 
+---
 
-
-⭐ *Always open to collaborating on AI, LLM systems, and GenAI applications.*
+⭐ **Always open to collaborating on GenAI, LLM systems, and AI infrastructure.**
