@@ -199,7 +199,7 @@ Python • LLMs • Sentence-BERT • FAISS
 - Supported **AI-driven decision systems**
 
 
-
+---
 <img src="https://cdn.simpleicons.org/maildotru/FFC107" height="24"/> Connect With Me
 
 📍 **Riyadh, Saudi Arabia**
