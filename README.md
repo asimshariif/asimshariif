@@ -8,7 +8,7 @@ I design and build **production-grade AI systems** using **LLMs, RAG pipelines, 
 
 ---
 
-##<img src="https://cdn.simpleicons.org/lightning/FFC107" height="22"/> Currently Focused On
+<img src="https://cdn.simpleicons.org/lightning/FFC107" height="22"/> Currently Focused On
 
 • Scalable AI Architectures  
 • Intelligent Automation Systems  
@@ -182,7 +182,7 @@ Python • LLMs • Sentence-BERT • FAISS
 - Integrated **GPT-4 realtime APIs**
 - Developed **multilingual learning assistants**
 
----
+
 
 ### AI Software Engineer — QUEM Systems International
 
@@ -190,7 +190,7 @@ Python • LLMs • Sentence-BERT • FAISS
 - Developed **AI agents & automation systems**
 - Designed **LLM-based enterprise solutions**
 
----
+
 
 ### Data Analyst — Goal Bytes Pvt Ltd
 
@@ -198,7 +198,7 @@ Python • LLMs • Sentence-BERT • FAISS
 - Designed **analytics dashboards**
 - Supported **AI-driven decision systems**
 
----
+
 
 <img src="https://cdn.simpleicons.org/maildotru/FFC107" height="24"/> Connect With Me
 
@@ -216,9 +216,8 @@ Python • LLMs • Sentence-BERT • FAISS
 
 </p>
 
----
 
 Always open to collaborating on **GenAI, LLM systems, and AI infrastructure.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC107&height=120&section=footer"/>
-```
+
