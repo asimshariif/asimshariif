@@ -1,5 +1,5 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC107&height=400&section=header&text=Asim%20Sharif&fontSize=40&fontColor=000000"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC107&height=300&section=header&text=Asim%20Sharif&fontSize=40&fontColor=000000"/>
 
 <img src="https://cdn.simpleicons.org/openai/FFC107" height="28"/> Hi, I'm **Asim Sharif**
 
