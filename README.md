@@ -1,6 +1,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC107&height=200&section=header&text=Asim%20Sharif&fontSize=40&fontColor=ffffff"/>
-<img src="https://cdn-icons-png.flaticon.com/512/2331/2331943.png" width="28"/> Hi, I'm **Asim Sharif**
+![Hi](https://img.shields.io/badge/Hi-%F0%9F%91%8B-yellow?style=for-the-badge) Hi, I'm **Asim Sharif**
 
 **GenAI Specialist | LLM Engineer | AI Systems Builder**
 
