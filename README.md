@@ -1,6 +1,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC107&height=200&section=header&text=Asim%20Sharif&fontSize=40&fontColor=ffffff"/>
-👋 Hi, I'm **Asim Sharif**
+
 
 **GenAI Specialist | LLM Engineer | AI Systems Builder**
 
@@ -8,7 +8,7 @@ I design and build **production-grade AI systems** using **LLMs, RAG pipelines, 
 
 ---
 
-## <img src="https://cdn.simpleicons.org/lightning/FFC107" height="22"/> Currently Focused On
+<img src="https://cdn.simpleicons.org/lightning/FFC107" height="22"/> Currently Focused On
 
 • Scalable AI Architectures  
 • Intelligent Automation Systems  
