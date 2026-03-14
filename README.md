@@ -8,7 +8,7 @@ I design and build **production-grade AI systems** using **LLMs, RAG pipelines, 
 
 ---
 
-<img src="https://cdn.simpleicons.org/lightning/FFC107" height="22"/> Currently Focused On
+##<img src="https://cdn.simpleicons.org/lightning/FFC107" height="22"/> Currently Focused On
 
 • Scalable AI Architectures  
 • Intelligent Automation Systems  
@@ -20,7 +20,7 @@ I design and build **production-grade AI systems** using **LLMs, RAG pipelines, 
 
 ---
 
-<img src="https://cdn.simpleicons.org/openai/FFC107" height="24"/> AI Expertise
+🧠AI Expertise
 
 | Domain | Skills |
 |------|------|
@@ -71,7 +71,7 @@ I design and build **production-grade AI systems** using **LLMs, RAG pipelines, 
 
 ---
 
-<img src="https://cdn.simpleicons.org/databricks/FFC107" height="24"/> AI Systems
+⚙️ AI Systems
 
 • Retrieval-Augmented Generation (RAG)  
 • Embedding Pipelines  
