@@ -1,32 +1,22 @@
+```markdown
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC107&height=200&section=header&text=Asim%20Sharif&fontSize=40&fontColor=000000"/>
 
+# 👋 Hi, I'm **Asim Sharif**
 
-<h1 align="center">
-  👋 Hi, I'm <span style="color:#FFC107;">Asim Sharif</span>
-</h1>
+🚀 **GenAI Specialist | LLM Engineer | AI Systems Builder**
 
-<p align="center">
-🚀 <b>GenAI Specialist | LLM Engineer | AI Systems Builder</b>
-</p>
-
-<p align="center">
-I design and build <b>production-grade AI systems</b> using <b>LLMs, RAG pipelines, and AI agents</b>.
-</p>
+I design and build **production-grade AI systems** using **LLMs, RAG pipelines, and AI agents**.
 
 ---
 
-## 🌟 Current Focus
+## 🌟 Currently Focused On
 
 🟡 Scalable AI Architectures  
 🟡 Intelligent Automation Systems  
 🟡 Enterprise AI Applications  
 
----
-
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimshariif&layout=compact&theme=dark&title_color=FFC107&text_color=ffffff&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimshariif&layout=compact&theme=dark&title_color=FFC107&text_color=ffffff&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -88,11 +78,11 @@ FAISS • Sentence-BERT • Embeddings • LLM Pipelines
 
 # 🚀 Featured AI Projects
 
-## 🤖 AI Resume Screening Chatbot
+## 🤖 AI Resume Screening Chatbot (RAG)
 
 Automated recruitment assistant using **LLMs + semantic retrieval**
 
-**Features**
+Features:
 
 - Document parsing
 - FAISS semantic search
@@ -100,7 +90,7 @@ Automated recruitment assistant using **LLMs + semantic retrieval**
 - LLM response generation
 - Multi-user architecture
 
-**Tech**
+Tech:
 
 ```
 
@@ -114,12 +104,20 @@ Python • LangChain • FAISS • LLMs
 
 Deep generative models for **handwritten signature synthesis**
 
-**Features**
+Features:
 
 - GAN & VAE architectures
 - Custom preprocessing pipelines
 - PyTorch training optimization
 - Quality evaluation metrics
+
+Tech:
+
+```
+
+PyTorch • GAN • VAE • Python
+
+```
 
 ---
 
@@ -127,9 +125,19 @@ Deep generative models for **handwritten signature synthesis**
 
 Large-scale **product review analytics platform**
 
+Features:
+
 - Sentiment analysis
 - Trend detection
 - Interactive dashboards
+
+Tech:
+
+```
+
+Python • Tableau • NLP • Data Visualization
+
+```
 
 ---
 
@@ -137,9 +145,19 @@ Large-scale **product review analytics platform**
 
 AI-powered **LLM-based automated grading system**
 
+Features:
+
 - Semantic answer evaluation
 - Vector retrieval system
 - Role-based secure architecture
+
+Tech:
+
+```
+
+Python • LLMs • Sentence-BERT • FAISS
+
+```
 
 ---
 
@@ -147,21 +165,25 @@ AI-powered **LLM-based automated grading system**
 
 ### 🟡 AI Engineer — NurifyAI (2026)
 
-- Built voice-enabled AI tutors
-- Integrated GPT-4 realtime APIs
-- Developed multilingual learning assistants
+- Built **voice-enabled AI tutors**
+- Integrated **GPT-4 realtime APIs**
+- Developed **multilingual learning assistants**
+
+---
 
 ### 🟡 AI Software Engineer — QUEM Systems International
 
-- Built production RAG pipelines
-- Developed AI agents & automation systems
-- Designed enterprise LLM solutions
+- Built production **RAG pipelines**
+- Developed **AI agents & automation systems**
+- Designed **LLM-based enterprise solutions**
+
+---
 
 ### 🟡 Data Analyst — Goal Bytes Pvt Ltd
 
-- Built data pipelines
-- Designed analytics dashboards
-- Supported AI-driven decision systems
+- Built **data pipelines**
+- Designed **analytics dashboards**
+- Supported **AI-driven decision systems**
 
 ---
 
@@ -170,17 +192,14 @@ AI-powered **LLM-based automated grading system**
 📍 **Riyadh, Saudi Arabia**
 
 📧 **Email**  
-asimsharif603@gmail.com
+asimsharif603@gmail.com  
 
 🔗 **LinkedIn**  
 https://www.linkedin.com/in/asim-sharif-59104b335/
 
 ---
 
-⭐ Always open to collaborating on **GenAI, LLM systems, and AI infrastructure**.
+⭐ **Always open to collaborating on GenAI, LLM systems, and AI infrastructure.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC107&height=120&section=footer"/>
 ```
-
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC107&height=200&section=header&text=Asim%20Sharif&fontSize=40&fontColor=000000"/>
-
