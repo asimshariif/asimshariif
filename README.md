@@ -1,7 +1,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC107&height=200&section=header&text=Asim%20Sharif&fontSize=40&fontColor=ffffff"/>
 
-<img src="https://via.placeholder.com/100x50/ff7f50/ffffff?text=Hi" alt="Hi" style="height:40px;"> Hi, I'm **Asim Sharif**
+<img src="https://via.placeholder.com/100x50/ff7f50/ffffff?text=Hi" alt="Hi" style="height:40;"> Hi, I'm **Asim Sharif**
 
 **GenAI Specialist | LLM Engineer | AI Systems Builder**
 
