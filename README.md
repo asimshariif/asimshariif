@@ -1,4 +1,4 @@
-```markdown
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFC107&height=200&section=header&text=Asim%20Sharif&fontSize=40&fontColor=000000"/>
 
 # 👋 Hi, I'm **Asim Sharif**
