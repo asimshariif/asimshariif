@@ -21,7 +21,7 @@ I design and build **production-grade AI systems** using **LLMs, RAG pipelines, 
 
 ---
 
-# <img src="https://cdn.simpleicons.org/openai/FFC107" height="24"/> AI Expertise
+<img src="https://cdn.simpleicons.org/openai/FFC107" height="24"/> AI Expertise
 
 | Domain | Skills |
 |------|------|
@@ -34,7 +34,7 @@ I design and build **production-grade AI systems** using **LLMs, RAG pipelines, 
 
 ---
 
-# <img src="https://cdn.simpleicons.org/stackshare/FFC107" height="24"/> Tech Stack
+<img src="https://cdn.simpleicons.org/stackshare/FFC107" height="24"/> Tech Stack
 
 ## Languages
 
@@ -72,7 +72,7 @@ I design and build **production-grade AI systems** using **LLMs, RAG pipelines, 
 
 ---
 
-# <img src="https://cdn.simpleicons.org/databricks/FFC107" height="24"/> AI Systems
+<img src="https://cdn.simpleicons.org/databricks/FFC107" height="24"/> AI Systems
 
 • Retrieval-Augmented Generation (RAG)  
 • Embedding Pipelines  
@@ -90,7 +90,7 @@ FAISS • Sentence-BERT • Embeddings • LLM Pipelines
 
 ---
 
-# <img src="https://cdn.simpleicons.org/github/FFC107" height="24"/> Featured AI Projects
+<img src="https://cdn.simpleicons.org/github/FFC107" height="24"/> Featured AI Projects
 
 ## AI Resume Screening Chatbot (RAG)
 
@@ -175,7 +175,7 @@ Python • LLMs • Sentence-BERT • FAISS
 
 ---
 
-# <img src="https://cdn.simpleicons.org/linkedin/FFC107" height="24"/> Professional Experience
+<img src="https://cdn.simpleicons.org/linkedin/FFC107" height="24"/> Professional Experience
 
 ### AI Engineer — NurifyAI (2026)
 
@@ -201,7 +201,7 @@ Python • LLMs • Sentence-BERT • FAISS
 
 ---
 
-# <img src="https://cdn.simpleicons.org/maildotru/FFC107" height="24"/> Connect With Me
+<img src="https://cdn.simpleicons.org/maildotru/FFC107" height="24"/> Connect With Me
 
 📍 **Riyadh, Saudi Arabia**
 
