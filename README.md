@@ -1,34 +1,27 @@
 
-<!-- HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC107&height=200&section=header&text=Asim%20Sharif&fontSize=40&fontColor=000000"/>
+
+# <img src="https://cdn.simpleicons.org/openai/FFC107" height="28"/> Hi, I'm **Asim Sharif**
+
+**GenAI Specialist | LLM Engineer | AI Systems Builder**
+
+I design and build **production-grade AI systems** using **LLMs, RAG pipelines, and AI agents**.
+
+---
+
+## <img src="https://cdn.simpleicons.org/lightning/FFC107" height="22"/> Currently Focused On
+
+• Scalable AI Architectures  
+• Intelligent Automation Systems  
+• Enterprise AI Applications  
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB300,FFC107,FFD54F&height=220&section=header&text=Asim%20Sharif&fontSize=42&fontColor=000000&animation=fadeIn&fontAlignY=38"/>
-</p>
-
-<p align="center">
-
-### GenAI Specialist • LLM Engineer • AI Systems Builder
-
-Designing **production-grade AI systems** using **LLMs, RAG pipelines, and AI agents**
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimshariif&layout=compact&theme=dark&title_color=FFC107&text_color=ffffff&hide_border=true" height="150"/>
 </p>
 
 ---
 
-# ABOUT ME
-
-I specialize in building **scalable AI architectures and intelligent automation systems**.
-
-Currently focused on:
-
-- Scalable AI Infrastructure
-- Enterprise AI Applications
-- Agentic AI Systems
-- Retrieval Augmented Generation (RAG)
-
----
-
-# AI EXPERTISE
+# <img src="https://cdn.simpleicons.org/openai/FFC107" height="24"/> AI Expertise
 
 | Domain | Skills |
 |------|------|
@@ -41,46 +34,53 @@ Currently focused on:
 
 ---
 
-# TECH STACK
+# <img src="https://cdn.simpleicons.org/stackshare/FFC107" height="24"/> Tech Stack
 
-### Languages
+## Languages
 
-<p align="center">
+<p>
 
-<img src="https://skillicons.dev/icons?i=python,js,cpp,c,html,sql"/>
+<img src="https://skillicons.dev/icons?i=python" height="40"/>
+<img src="https://skillicons.dev/icons?i=javascript" height="40"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="40"/>
+<img src="https://skillicons.dev/icons?i=c" height="40"/>
+<img src="https://skillicons.dev/icons?i=html" height="40"/>
+<img src="https://skillicons.dev/icons?i=mysql" height="40"/>
 
 </p>
 
 ---
 
-### AI / ML
+## AI / ML
 
-<p align="center">
+<p>
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+<img src="https://skillicons.dev/icons?i=pytorch" height="40"/>
+<img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>
+<img src="https://skillicons.dev/icons?i=huggingface" height="40"/>
+<img src="https://skillicons.dev/icons?i=docker" height="40"/>
 
 </p>
 
-<p align="center">
+<p>
 
-<img src="https://img.shields.io/badge/LangChain-AI%20Framework-FFC107?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-Agent%20Framework-FFB300?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HuggingFace-Models-FFD54F?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-AI_Framework-FFC107?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-Agent_Framework-FFC107?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/OpenAI-API-FFC107?style=for-the-badge"/>
 
 </p>
 
 ---
 
-# AI SYSTEMS
+# <img src="https://cdn.simpleicons.org/databricks/FFC107" height="24"/> AI Systems
 
-- Retrieval-Augmented Generation (RAG)
-- Embedding Pipelines
-- Vector Databases
-- Semantic Search
-- AI Evaluation Systems
+• Retrieval-Augmented Generation (RAG)  
+• Embedding Pipelines  
+• Vector Databases  
+• Semantic Search  
+• AI Evaluation Systems  
 
-Tools
+Tools:
 
 ```
 
@@ -90,13 +90,13 @@ FAISS • Sentence-BERT • Embeddings • LLM Pipelines
 
 ---
 
-# FEATURED PROJECTS
+# <img src="https://cdn.simpleicons.org/github/FFC107" height="24"/> Featured AI Projects
 
-### AI Resume Screening Chatbot
+## AI Resume Screening Chatbot (RAG)
 
 Automated recruitment assistant using **LLMs + semantic retrieval**
 
-**Features**
+Features:
 
 - Document parsing
 - FAISS semantic search
@@ -104,7 +104,7 @@ Automated recruitment assistant using **LLMs + semantic retrieval**
 - LLM response generation
 - Multi-user architecture
 
-Tech
+Tech:
 
 ```
 
@@ -114,58 +114,58 @@ Python • LangChain • FAISS • LLMs
 
 ---
 
-### Signature Synthesis with Generative AI
+## Signature Synthesis with Generative AI
 
 Deep generative models for **handwritten signature synthesis**
 
-Features
+Features:
 
 - GAN & VAE architectures
 - Custom preprocessing pipelines
 - PyTorch training optimization
 - Quality evaluation metrics
 
-Tech
+Tech:
 
 ```
 
-PyTorch • GAN • VAE
+PyTorch • GAN • VAE • Python
 
 ```
 
 ---
 
-### Amazon Reviews Analytics Dashboard
+## Amazon Reviews Analytics Dashboard
 
-Large scale **product review analytics platform**
+Large-scale **product review analytics platform**
 
-Features
+Features:
 
 - Sentiment analysis
 - Trend detection
 - Interactive dashboards
 
-Tech
+Tech:
 
 ```
 
-Python • Tableau • NLP
+Python • Tableau • NLP • Data Visualization
 
 ```
 
 ---
 
-### GenFlex – AI Examination System
+## GenFlex – AI Examination System
 
-AI powered **LLM automated grading system**
+AI-powered **LLM-based automated grading system**
 
-Features
+Features:
 
 - Semantic answer evaluation
 - Vector retrieval system
-- Role based secure architecture
+- Role-based secure architecture
 
-Tech
+Tech:
 
 ```
 
@@ -175,63 +175,51 @@ Python • LLMs • Sentence-BERT • FAISS
 
 ---
 
-# PROFESSIONAL EXPERIENCE
+# <img src="https://cdn.simpleicons.org/linkedin/FFC107" height="24"/> Professional Experience
 
-### AI Engineer — NurifyAI
+### AI Engineer — NurifyAI (2026)
 
-- Built voice enabled AI tutors
-- Integrated GPT realtime APIs
-- Developed multilingual learning assistants
+- Built **voice-enabled AI tutors**
+- Integrated **GPT-4 realtime APIs**
+- Developed **multilingual learning assistants**
 
 ---
 
 ### AI Software Engineer — QUEM Systems International
 
-- Built production RAG pipelines
-- Developed AI agents and automation systems
-- Designed enterprise LLM solutions
+- Built production **RAG pipelines**
+- Developed **AI agents & automation systems**
+- Designed **LLM-based enterprise solutions**
 
 ---
 
 ### Data Analyst — Goal Bytes Pvt Ltd
 
-- Built data pipelines
-- Designed analytics dashboards
-- Supported AI driven decision systems
+- Built **data pipelines**
+- Designed **analytics dashboards**
+- Supported **AI-driven decision systems**
 
 ---
 
-# GITHUB STATS
+# <img src="https://cdn.simpleicons.org/maildotru/FFC107" height="24"/> Connect With Me
 
-<p align="center">
+📍 **Riyadh, Saudi Arabia**
 
-<img src="https://github-readme-stats.vercel.app/api?username=asimshariif&show_icons=true&theme=dark&title_color=FFC107&icon_color=FFC107&text_color=ffffff&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimshariif&layout=compact&theme=dark&title_color=FFC107&text_color=ffffff&hide_border=true"/>
-
-</p>
-
----
-
-# CONNECT WITH ME
-
-<p align="center">
+<p>
 
 <a href="mailto:asimsharif603@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
 </a>
 
 <a href="https://www.linkedin.com/in/asim-sharif-59104b335/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
 </p>
 
-Riyadh, Saudi Arabia
-
 ---
 
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB300,FFC107,FFD54F&height=120&section=footer"/>
-</p>
+Always open to collaborating on **GenAI, LLM systems, and AI infrastructure.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC107&height=120&section=footer"/>
 ```
