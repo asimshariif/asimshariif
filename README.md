@@ -57,17 +57,30 @@ I design and build **production-grade AI systems** using **LLMs, RAG pipelines, 
 <img src="https://skillicons.dev/icons?i=pytorch" height="40"/>
 <img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>
 <img src="https://skillicons.dev/icons?i=huggingface" height="40"/>
-<img src="https://skillicons.dev/icons?i=docker" height="40"/>
+<img src="https://cdn.simpleicons.org/langchain/FFC107" height="40"/>
+<img src="https://cdn.simpleicons.org/openai/FFC107" height="40"/>
+<img src="https://cdn.simpleicons.org/docker/FFC107" height="40"/>
+<img src="https://cdn.simpleicons.org/pandas/FFC107" height="40"/>
+<img src="https://cdn.simpleicons.org/numpy/FFC107" height="40"/>
+<img src="https://cdn.simpleicons.org/jupyter/FFC107" height="40"/>
+<img src="https://cdn.simpleicons.org/git/FFC107" height="40"/>
+<img src="https://cdn.simpleicons.org/linux/FFC107" height="40"/>
+<img src="https://cdn.simpleicons.org/amazonaws/FFC107" height="40"/>
 
 </p>
+
+<!-- Vector / Database / AI Infra -->
 
 <p>
 
-<img src="https://img.shields.io/badge/LangChain-AI_Framework-FFC107?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-Agent_Framework-FFC107?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/OpenAI-API-FFC107?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-Vector_Search-FFC107?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Sentence--BERT-Embeddings-FFC107?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-Retrieval_AI-FFC107?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agents-Agentic_Systems-FFC107?style=for-the-badge"/>
 
 </p>
+
+
 
 ---
 
