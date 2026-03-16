@@ -20,7 +20,7 @@
 
 ## 🧬 About Me
 ```python
-class AsimSharif:
+class Introduction:
     name       = "Asim Sharif"
     role       = "GenAI Specialist & LLM Engineer"
     location   = "Riyadh, Saudi Arabia 🇸🇦"
