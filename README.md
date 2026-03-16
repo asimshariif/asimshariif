@@ -120,7 +120,7 @@ class AsimSharif:
 <div align="center">
 
 ### 🤖 AI Resume Screening Chatbot
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asimshariif&repo=ai-resume-screening&theme=dark&title_color=FFC107&icon_color=FFC107&border_color=FFC107&bg_color=0d0d0d)](https://github.com/asimshariif)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asimshariif&repo=Chatbot-for-Recruiters-Using-RAG&theme=dark&title_color=FFC107&icon_color=FFC107&border_color=FFC107&bg_color=0d0d0d)](https://github.com/asimshariif/Chatbot-for-Recruiters-Using-RAG)
 
 </div>
 
