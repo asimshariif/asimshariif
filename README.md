@@ -1,236 +1,268 @@
+<!-- HEADER BANNER -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=220&section=header&text=Asim%20Sharif&fontSize=55&fontColor=FFC107&fontAlignY=38&desc=GenAI%20Specialist%20%7C%20LLM%20Engineer%20%7C%20AI%20Systems%20Builder&descAlignY=58&descColor=ffffff&descSize=18&animation=fadeIn" width="100%"/>
+</div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC107&height=200&section=header&text=Asim%20Sharif&fontSize=40&fontColor=ffffff"/>
+<!-- TYPING ANIMATION -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFC107&center=true&vCenter=true&random=false&width=600&lines=Building+Production-Grade+AI+Systems;LLM+%7C+RAG+%7C+AI+Agents+%7C+Vector+Search;Turning+Ideas+into+Intelligent+Products;GenAI+Engineer+Based+in+Riyadh+%F0%9F%87%B8%F0%9F%87%A6" alt="Typing SVG"/>
+</div>
 
+<br/>
 
-**GenAI Specialist | LLM Engineer | AI Systems Builder**
-
-I design and build **production-grade AI systems** using **LLMs, RAG pipelines, and AI agents**.
-
----
-
-<img src="https://cdn.simpleicons.org/lightning/FFC107" height="22"/> Currently Focused On
-
-• Scalable AI Architectures  
-• Intelligent Automation Systems  
-• Enterprise AI Applications  
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asimshariif&layout=compact&theme=dark&title_color=FFC107&text_color=ffffff&hide_border=true" height="150"/>
-</p>
+<br/>
 
 ---
 
-🧠AI Expertise
-
-| Domain | Skills |
-|------|------|
-| Generative AI | LLM applications, prompt engineering |
-| RAG Systems | Retrieval pipelines, semantic search |
-| AI Agents | Agentic workflows, LangGraph |
-| LLM Infrastructure | scalable inference pipelines |
-| Vector Search | FAISS, embeddings |
-| AI Evaluation | benchmarking, testing |
-
----
-
-<img src="https://cdn.simpleicons.org/stackshare/FFC107" height="24"/> Tech Stack
-
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python" height="40"/>
-<img src="https://skillicons.dev/icons?i=javascript" height="40"/>
-<img src="https://skillicons.dev/icons?i=cpp" height="40"/>
-<img src="https://skillicons.dev/icons?i=c" height="40"/>
-<img src="https://skillicons.dev/icons?i=html" height="40"/>
-<img src="https://skillicons.dev/icons?i=mysql" height="40"/>
-
-</p>
-
----
-
-## AI / ML
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=pytorch" height="40"/>
-<img src="https://skillicons.dev/icons?i=tensorflow" height="40"/>
-<img src="https://skillicons.dev/icons?i=huggingface" height="40"/>
-<img src="https://cdn.simpleicons.org/langchain/FFC107" height="40"/>
-<img src="https://cdn.simpleicons.org/openai/FFC107" height="40"/>
-<img src="https://cdn.simpleicons.org/docker/FFC107" height="40"/>
-<img src="https://cdn.simpleicons.org/pandas/FFC107" height="40"/>
-<img src="https://cdn.simpleicons.org/numpy/FFC107" height="40"/>
-<img src="https://cdn.simpleicons.org/jupyter/FFC107" height="40"/>
-<img src="https://cdn.simpleicons.org/git/FFC107" height="40"/>
-<img src="https://cdn.simpleicons.org/linux/FFC107" height="40"/>
-<img src="https://cdn.simpleicons.org/amazonaws/FFC107" height="40"/>
-
-</p>
-
-<!-- Vector / Database / AI Infra -->
-
-<p>
-
-<img src="https://img.shields.io/badge/FAISS-Vector_Search-FFC107?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Sentence--BERT-Embeddings-FFC107?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/RAG-Retrieval_AI-FFC107?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_Agents-Agentic_Systems-FFC107?style=for-the-badge"/>
-
-</p>
-
-
-
----
-
-⚙️ AI Systems
-
-• Retrieval-Augmented Generation (RAG)  
-• Embedding Pipelines  
-• Vector Databases  
-• Semantic Search  
-• AI Evaluation Systems  
-
-Tools:
-
-```
-
-FAISS • Sentence-BERT • Embeddings • LLM Pipelines
-
+## 🧬 About Me
+```python
+class AsimSharif:
+    name       = "Asim Sharif"
+    role       = "GenAI Specialist & LLM Engineer"
+    location   = "Riyadh, Saudi Arabia 🇸🇦"
+    focus      = ["RAG Pipelines", "AI Agents", "LLM Infrastructure"]
+    building   = "Production-grade AI systems that scale"
+    email      = "asimsharif603@gmail.com"
+    motto      = "Don't just use AI — engineer it."
 ```
 
 ---
 
-<img src="https://cdn.simpleicons.org/github/FFC107" height="24"/> Featured AI Projects
+## ⚡ Currently Focused On
 
-## AI Resume Screening Chatbot (RAG)
+<div align="center">
 
-Automated recruitment assistant using **LLMs + semantic retrieval**
+| 🏗️ Scalable AI Architectures | 🤖 Intelligent Automation | 🏢 Enterprise AI Applications |
+|:---:|:---:|:---:|
+| Designing systems that handle real-world load | Replacing manual workflows with agents | Deploying LLMs into business-critical environments |
 
-Features:
-
-- Document parsing
-- FAISS semantic search
-- Embedding pipelines
-- LLM response generation
-- Multi-user architecture
-
-Tech:
-
-```
-
-Python • LangChain • FAISS • LLMs
-
-```
+</div>
 
 ---
 
-## Signature Synthesis with Generative AI
+## 🛠️ Tech Stack
 
-Deep generative models for **handwritten signature synthesis**
+### 💻 Languages
 
-Features:
-
-- GAN & VAE architectures
-- Custom preprocessing pipelines
-- PyTorch training optimization
-- Quality evaluation metrics
-
-Tech:
-
-```
-
-PyTorch • GAN • VAE • Python
-
-```
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,cpp,c,html,mysql&theme=dark&perline=6" />
+</div>
 
 ---
 
-## Amazon Reviews Analytics Dashboard
+### 🤖 AI / ML & Frameworks
 
-Large-scale **product review analytics platform**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,docker,git,linux,aws&theme=dark&perline=6" />
+</div>
 
-Features:
+<br/>
 
-- Sentiment analysis
-- Trend detection
-- Interactive dashboards
+<div align="center">
 
-Tech:
+<!-- Row 1: Core AI Tools -->
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=1a1a1a"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/LangGraph-FF6B35?style=for-the-badge&logo=graphql&logoColor=white&labelColor=000000"/>
 
-```
+<br/><br/>
 
-Python • Tableau • NLP • Data Visualization
+<!-- Row 2: Data & Compute -->
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=000000"/>
 
-```
+<br/><br/>
+
+<!-- Row 3: AI Infra -->
+<img src="https://img.shields.io/badge/FAISS-Vector_DB-FFC107?style=for-the-badge&logo=meta&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Sentence--BERT-Embeddings-4A90D9?style=for-the-badge&logo=google&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/ChromaDB-FF4500?style=for-the-badge&logo=databricks&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=00C4A0&labelColor=111111"/>
+
+<br/><br/>
+
+<!-- Row 4: Cloud & Deploy -->
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=000000"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white&labelColor=000000"/>
+
+</div>
+
+---
+
+## 🧠 AI Expertise Matrix
+
+<div align="center">
+
+| Domain | Core Skills | Level |
+|:---|:---|:---:|
+| 🤖 **Generative AI** | LLM applications, Prompt Engineering, Fine-tuning | ████████░░ |
+| 🔍 **RAG Systems** | Retrieval pipelines, Semantic search, Re-ranking | █████████░ |
+| 🕸️ **AI Agents** | Agentic workflows, LangGraph, Tool use | ████████░░ |
+| ⚙️ **LLM Infrastructure** | Scalable inference, API design, Optimization | ███████░░░ |
+| 🗄️ **Vector Search** | FAISS, Pinecone, ChromaDB, Embeddings | █████████░ |
+| 📊 **AI Evaluation** | Benchmarking, RAGAS, LLM-as-judge | ███████░░░ |
+
+</div>
 
 ---
 
-## GenFlex – AI Examination System
+## 🚀 Featured Projects
 
-AI-powered **LLM-based automated grading system**
+<div align="center">
 
-Features:
+### 🤖 AI Resume Screening Chatbot
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=asimshariif&repo=ai-resume-screening&theme=dark&title_color=FFC107&icon_color=FFC107&border_color=FFC107&bg_color=0d0d0d)](https://github.com/asimshariif)
 
-- Semantic answer evaluation
-- Vector retrieval system
-- Role-based secure architecture
+</div>
 
-Tech:
+> **RAG-powered recruitment assistant** — automated screening using LLMs + semantic retrieval
 
-```
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/FAISS-black?style=flat-square&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+</div>
 
-Python • LLMs • Sentence-BERT • FAISS
+✅ Document parsing · 🔍 FAISS semantic search · 🔗 Embedding pipelines · 💬 LLM response generation · 👥 Multi-user architecture
 
-```
+---
+
+<div align="center">
+
+### ✍️ Signature Synthesis — Generative AI
+
+</div>
+
+> **Deep generative models** for handwritten signature synthesis
+
+<div align="center">
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/GAN-Architecture-FF6B35?style=flat-square&logo=nvidia&logoColor=white"/>
+<img src="https://img.shields.io/badge/VAE-Generative-8E44AD?style=flat-square&logo=tensorflow&logoColor=white"/>
+</div>
+
+🧬 GAN & VAE architectures · 🔧 Custom preprocessing · ⚡ PyTorch optimization · 📏 Quality metrics
 
 ---
 
-<img src="https://cdn.simpleicons.org/linkedin/FFC107" height="24"/> Professional Experience
+<div align="center">
 
-### AI Engineer — NurifyAI (2026)
+### 📊 Amazon Reviews Analytics Dashboard
 
-- Built **voice-enabled AI tutors**
-- Integrated **GPT-4 realtime APIs**
-- Developed **multilingual learning assistants**
+</div>
 
+> **Large-scale product review analytics** platform
 
+<div align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-Sentiment_AI-4A90D9?style=flat-square&logo=google&logoColor=white"/>
+</div>
 
-### AI Software Engineer — QUEM Systems International
-
-- Built production **RAG pipelines**
-- Developed **AI agents & automation systems**
-- Designed **LLM-based enterprise solutions**
-
-
-
-### Data Analyst — Goal Bytes Pvt Ltd
-
-- Built **data pipelines**
-- Designed **analytics dashboards**
-- Supported **AI-driven decision systems**
-
+💬 Sentiment analysis · 📈 Trend detection · 🖥️ Interactive dashboards
 
 ---
-<img src="https://cdn.simpleicons.org/maildotru/FFC107" height="24"/> Connect With Me
 
-📍 **Riyadh, Saudi Arabia**
+<div align="center">
 
-<p>
+### 🎓 GenFlex — AI Examination System
 
-<a href="mailto:asimsharif603@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
+</div>
 
-<a href="https://www.linkedin.com/in/asim-sharif-59104b335/">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a>
+> **LLM-based automated grading** with semantic evaluation
 
-</p>
+<div align="center">
+<img src="https://img.shields.io/badge/Sentence--BERT-Embeddings-FFC107?style=flat-square&logo=google&logoColor=black"/>
+<img src="https://img.shields.io/badge/FAISS-Vector_Search-000000?style=flat-square&logo=meta&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+</div>
+
+📝 Semantic evaluation · 🗄️ Vector retrieval · 🔐 Role-based architecture
+
+---
+
+## 💼 Professional Experience
+
+<details>
+<summary><b>🏥 AI Engineer — NurifyAI (2026)</b></summary>
+<br/>
+
+- 🎙️ Built **voice-enabled AI tutors** with real-time speech processing
+- 🔌 Integrated **GPT-4 Realtime APIs** for low-latency conversations
+- 🌍 Developed **multilingual learning assistants** supporting 10+ languages
+
+</details>
+
+<details>
+<summary><b>🏭 AI Software Engineer — QUEM Systems International</b></summary>
+<br/>
+
+- 🔁 Built production **RAG pipelines** serving thousands of queries/day
+- 🕸️ Developed **AI agents & automation systems** replacing manual workflows
+- 🏢 Designed **LLM-based enterprise solutions** for document intelligence
+
+</details>
+
+<details>
+<summary><b>📊 Data Analyst — Goal Bytes Pvt Ltd</b></summary>
+<br/>
+
+- 🔄 Built **data pipelines** for real-time reporting
+- 📊 Designed **analytics dashboards** with Tableau & Power BI
+- 🧠 Supported **AI-driven decision systems**
+
+</details>
+
+---
+
+## 📊 GitHub Stats
 
 
-Always open to collaborating on **GenAI, LLM systems, and AI infrastructure.**
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFC107&height=120&section=footer"/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asimshariif&theme=dark&ring=FFC107&fire=FFC107&currStreakLabel=FFC107&background=0d0d0d&border=FFC107&stroke=FFC107&sideLabels=FFC107&dates=ffffff&sideNums=FFC107&currStreakNum=ffffff" width="60%"/>
+</div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asimshariif&bg_color=0d0d0d&color=FFC107&line=FFC107&point=ffffff&area=true&area_color=FFC107&hide_border=false&border_color=FFC107&radius=6" width="90%"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=asimshariif&theme=darkhub&no-frame=false&no-bg=false&margin-w=6&column=6&title_color=FFC107&row=1" width="90%"/>
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-asimsharif603%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:asimsharif603@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Asim%20Sharif-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/asim-sharif-59104b335/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-asimshariif-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/asimshariif)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=2000&color=FFC107&center=true&vCenter=true&width=500&lines=Always+open+to+GenAI+%26+LLM+collaborations+%F0%9F%A4%9D;Let%27s+build+something+intelligent+together+%F0%9F%9A%80" alt="footer typing"/>
+</div>
+
+<!-- FOOTER BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10&height=120&section=footer&animation=fadeIn" width="100%"/>
